@@ -1,2 +1,5 @@
 # VicHealth-Virtual-Reality-Project
 An immersive educational VR experience developed to raise awareness about vaping using Meta Quest 3, Unity, and Blender.
+
+
+In this modern world, vaping is a serious problem which is not considered as big a problem as smoking. Vapes do not display warning signs like cigarette packages do. These vapes look cool and colourful, which appeals to the younger generation. Many people do not perceive them as being as harmful as cigarettes. To counter this problem, a solution has been created for young adults: a virtual reality application designed for Meta Quest 3. It is an engaging VR application that creates awareness among young adults about vaping. It provides an immersive experience of a vape world, showing how vaping can impact the human body without making users feel bored, while educating them. This application was created using the Unity Engine, assets from the Meta Asset Store, and custom 3D models created in Blender. It is able to provide a great, engaging, and immersive experience to raise awareness about vaping. 
